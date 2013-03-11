@@ -1,0 +1,40 @@
+{
+  "Unit Tests": {
+    "coverage": {
+      "/Users/bitmaker/Documents/Fizzbuzz/fizzbuzz3.rb": [
+        1,
+        1,
+        11,
+        3,
+        8,
+        1,
+        7,
+        2,
+        5,
+        2,
+        null,
+        3,
+        null,
+        null,
+        null,
+        1,
+        26,
+        null,
+        null,
+        1,
+        15,
+        null,
+        null,
+        1,
+        19,
+        null,
+        null,
+        1,
+        10,
+        null,
+        null
+      ]
+    },
+    "timestamp": 1363035599
+  }
+}
