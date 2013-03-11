@@ -1,3 +1,4 @@
+# Test
 class Fizzbuzz
 	def self.identify number
 		if (number%3 == 0 && number%5 == 0) || (number.to_s.include?("3") && number.to_s.include?("5"))
